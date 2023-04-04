@@ -18,7 +18,9 @@
 __Brigham Young University - Idaho__, Rexburg, ID
 
 -Member of Corporate Finance Society (CFS)
+
 -Certificate: in Basic Accounting, Data Science
+
 - Merit Scholarship Recipient
 
 
@@ -37,7 +39,9 @@ __Goldman Sachs__, Salt Lake City, UT
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - Provide expertise in data storage structures, data mining, and data cleansing. Translating numbers and facts to inform strategic department decisions.
+
 - Manipulate, organize and clean data through R code programming for analysis reports.
+
 - Created database with useful dashboard and pivot tables for efficient data insights with Excel
 
 
@@ -47,7 +51,9 @@ __Brigham Young University - Idaho__, Rexburg, ID
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - Mentoring 20+ students weekly by teaching them Excel functions to create data insights formanagers
-- Teach Business primary students how to use databases to provide good feedback to companies •
+
+- Teach Business primary students how to use databases to provide good feedback to companies 
+
 - Assist in using spreadsheets to intelligently organize, analyze, interpret, summarize, and communicate
  relevant data
 
@@ -57,6 +63,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 __Corporacion Publicitaria Digital__, SPS, HND
 
 - Demonstrated administrative competence in multitasking assignments to be efficient and avoid mistakes by using time wisely
+
 - Developed a tracking system to organize sensitive information and summarize content to present to management weekly
 
 
@@ -67,7 +74,9 @@ __Corporacion Publicitaria Digital__, SPS, HND
 __Full-time Volunteer Representative__, Sao Paulo, Brazil
 
 - Analyzed data from multiple volunteer groups to identify trends, issues, and improvement
+
 - Obtained fluency in Portuguese within three months and devised strategies to help others learnfast
+
 - Prepared weekly training meetings for 6-12 fellow volunteers to increase communication and
  effectiveness
 
@@ -76,6 +85,7 @@ __Full-time Volunteer Representative__, Sao Paulo, Brazil
 
 Computer Skills: MS Word, Excel, PowerPoint, Access, Adobe Photoshop, After Effects,QuickBooks
 - Languages: English (Basic), Spanish (Fluent)
+
 - Basic Knowledge in python and R
 
 
