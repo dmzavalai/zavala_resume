@@ -36,9 +36,9 @@ __Goldman Sachs__, Salt Lake City, UT
 `Aug 2022 - Apr 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-• Provide expertise in data storage structures, data mining, and data cleansing. Translating numbers and facts to inform strategic department decisions.
-• Manipulate, organize and clean data through R code programming for analysis reports.
-• Created database with useful dashboard and pivot tables for efficient data insights with Excel
+- Provide expertise in data storage structures, data mining, and data cleansing. Translating numbers and facts to inform strategic department decisions.
+- Manipulate, organize and clean data through R code programming for analysis reports.
+- Created database with useful dashboard and pivot tables for efficient data insights with Excel
 
 
 ### Business Excel Analyst Tutor
