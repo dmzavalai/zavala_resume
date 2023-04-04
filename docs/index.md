@@ -42,7 +42,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ### Business Excel Analyst Tutor
 
-`Ago Sep 2021 - Present`
+`Aug Sep 2021 - Present`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 • Mentoring 20+ students weekly by teaching them Excel functions to create data insights formanagers
