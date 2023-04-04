@@ -5,7 +5,7 @@
 <div id="webaddress">
 
 | <a 801-500-2108</a>
-| <a dmzavalai@gmail.com</a>
+| dmzavalai@gmail.com</a>
 | <a href="https://www.linkedin.com/in/dzavalai/">LinkedIn</a>
 
 </div>
