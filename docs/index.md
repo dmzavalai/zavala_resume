@@ -25,14 +25,14 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ### Summer Analyst
 
-`Jun 2023 - Ago 2038`
+`Jun 2023 - Aug 2038`
 __Goldman Sachs_, Salt Lake City, UT
 
 - FIIC and Equity Analyst
 
 ### TA Manager Analyst Assistant
 
-`Ago 2022 - Apr 2023`
+`Aug 2022 - Apr 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 • Provide expertise in data storage structures, data mining, and data cleansing. Translating numbers and facts to inform strategic department decisions.
