@@ -1,63 +1,82 @@
-# Daniel Zavala Resume
 
-https://dmzavalai.github.io/zavala_resume/
+# Daniel Zavala
+The second prophet of The Church of Jesus Christ of Latter-day Saints.
+
+<div id="webaddress">
+<a href="datascience@byui.edu">datascience@byui.edu</a>
+| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+</div>
+
+<!-- https://www.monique.tech/the-art-of-markdown -->
 
 
-A resume maintained in plain text and rendered to HTML and PDF using CSS.
+## Education
 
-For more details, see the [markdown-csv project page](http://elipapa.github.io/markdown-cv), or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
+`2021-2023`
 
-***
 
-## Customization
+__Brigham Young University - Idaho__, Rexburg, ID
 
-Simply [fork the mdresume repo](https://github.com/byuids-resumes/mdresume)
+- 4.0 Major GPA
 
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
 
-and edit the `index.md` file in the `docs` folder [directly in Github](https://help.github.com/articles/editing-files-in-your-repository/)
+## Related Experience
 
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
+### Internships
 
-adding your skills, jobs and education.
+`July 2023`
+__GoldamanSachs Summer Analyst__, Salt Lake City, UT
 
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
+- FICC and Equity Department
 
-## Distribution
+### TA Manager Analyst Assistant
 
-To transform your plain text resume into a beautiful and shareable HTML page, you have two options:
+` Ago 22 - May 2023`
+__Brigham Young University - Idaho__, Rexburg
 
-### I. Use Github Pages to publish it online
+• Provide expertise in data storage structures, data mining, and data cleansing. Translating numbers and facts to inform strategic department decisions.
+• Manipulate, organize and clean data through R code programming for analysis reports.
+• Created database with useful dashboard and pivot tables for efficient data insights with Excel
 
-1. Edit or move your resume to the `index.md` file in the `docs` folder.
-2. Go to settings > GitHub pages to make the changes shown.
+### TBusiness Excel Analyst Tutor
+` Sep 21 - Present`
+__Brigham Young University - Idaho__, Rexburg
 
-![](docs_setup.png)
+• Mentoring 20+ students weekly by teaching them Excel functions to create data insights formanagers
+• Teach Business primary students how to use databases to provide good feedback to companies •
+• Assist in using spreadsheets to intelligently organize, analyze, interpret, summarize, and communicate
+ relevant data
 
-3. Head to *yourusername*.github.io/mdresume to see your resume live.
+### Data Science Consulting Team
 
-Any change you want to make to your CV from then on would have to be done in the `docs` folder and will be immediately rendered by Github Pages.
+`January 2027 - April 2027`
+__Imagine Learning__
 
-## Styling
+- Build web scraping tool to find and format school district technology data.
+- Used R and the Rvest package to parse and format web data.
+- Saved 30 hours a month with the automated scripts.
 
-The included CSS will render your CV in two styles:
-s
-1. `kjhealy` the original default, inspired by [kjhealy's vita
-template](https://github.com/kjhealy/kjh-vita).
-2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
-  right aligned.
+`April 2027 - July 2027`
+__Pinnacle Management Group__, 
 
-To change the default style, simply change the variable in the
-`_config.yml` file.
+- Proof of concept development of dashboards using client's corporate data.
+- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
+- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
 
-Any other styling is possible. More CSS style contributions and forks are welcome!
 
-### Author
+## Service and Work History
 
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
+`2025-2027`
+__Math Tutor__, LDSBC
 
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
 
-### License
+`2023-2025`
+__Service Missionary__, South Africa
 
-[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
+
+
+<!-- ### Footer
+
+Last updated: May 2013 -->
+
+
