@@ -1,7 +1,4 @@
----
-layout: cv
-title: Daniel Zavala Resume
----
+
 
 # Daniel Zavala 
 
@@ -30,7 +27,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 ### Summer Analyst
 
 `Jun 2023 - Aug 2038`
-__Goldman Sachs_, Salt Lake City__, UT
+__Goldman Sachs__, Salt Lake City, UT
 
 - FIIC and Equity Analyst
 
@@ -57,7 +54,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 ### Administrative Assistant.
 
 `Mar 2018 - Dec. 2020`
-__Corporacion Publicitaria Digital__, HND
+__Corporacion Publicitaria Digital__, SPS, HND
 
 - Demonstrated administrative competence in multitasking assignments to be efficient and avoid mistakes by using time wisely
 - Developed a tracking system to organize sensitive information and summarize content to present to management weekly
