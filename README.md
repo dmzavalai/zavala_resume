@@ -1,4 +1,4 @@
-# md-resume
+# Daniel Zavala
 
 https://dmzavalai.github.io/zavala_resume/
 
