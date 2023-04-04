@@ -3,9 +3,10 @@
 
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+
 | <a 801-500-2108</a>
-| <a href="https://www.linkedin.com/dzavalai/">LinkedIn</a>
+| <a dmzavalai@gmail.com</a>
+| <a href="https://www.linkedin.com/in/dzavalai/">LinkedIn</a>
 
 </div>
 
