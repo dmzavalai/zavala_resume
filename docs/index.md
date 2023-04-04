@@ -17,9 +17,9 @@
 `Jan 2021 - Dec 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
--Member of Corporate Finance Society (CFS)
+- Member of Corporate Finance Society (CFS)
 
--Certificate: in Basic Accounting, Data Science
+- Certificate: in Basic Accounting, Data Science
 
 - Merit Scholarship Recipient
 
